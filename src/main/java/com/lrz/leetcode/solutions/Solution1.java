@@ -1,4 +1,4 @@
-package com.lrz.leetcode;
+package com.lrz.leetcode.solutions;
 
 /**
  * 九宫格
